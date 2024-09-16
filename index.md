@@ -12,9 +12,8 @@ profile_picture:
 <p>
   Greeting! This site is a personal webpage of Junbeom Park.
   Junbeom Park is a very promising and original engineer with an interest in diverse fields!.
-  Let's dive into my works and blogs :)
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  Let's dive into my works and blogs :)
 </p>
