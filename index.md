@@ -6,7 +6,13 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  "To define is to limit!" by Oscar Wilde
+</p>
+
+<p>
+  Greeting! This site is a personal webpage of Junbeom Park.
+  Junbeom Park is a very promising and original engineer with an interest in diverse fields!.
+  Let's dive into my works and blogs :)
 </p>
 
 <p>
