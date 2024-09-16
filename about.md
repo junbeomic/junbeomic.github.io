@@ -4,6 +4,6 @@ title: About
 slug: /about
 ---
 
-My name is Junbeom Park, but someone call me Ethan.
+My name is Junbeom Park, but someone calls me Ethan.
 <br />
 <br />
