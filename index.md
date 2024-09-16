@@ -11,9 +11,16 @@ profile_picture:
 
 <p>
   Greeting! This site is a personal webpage of Junbeom Park.
-  Junbeom Park is a very promising and original engineer with an interest in diverse fields!
+</p>
+
+<p>
+  Junbeom Park is a promising and original student, engineer and friend with an interest in diverse fields!
 </p>
 
 <p>
   Let's dive into my works and blogs :)
+</p>
+
+<p>
+  NOTICE : THIS SITE IS UNDER CONSTRUCTION
 </p>
